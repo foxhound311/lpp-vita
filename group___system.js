@@ -16,6 +16,11 @@ var group___system =
       [ "SCREEN_OFF_TIMER", "group___system.html#ggaa87f56921e4e4587ca7c9503e017feb5a83898f603e5210a00b6f66199ebb7eec", null ],
       [ "SCREEN_DIMMING_TIMER", "group___system.html#ggaa87f56921e4e4587ca7c9503e017feb5ae9095b853f96804f440ff1b799bc1330", null ]
     ] ],
+    [ "ImgFmt", "group___system.html#gacaf0607d1c436718aa252e6ee323024a", [
+      [ "FORMAT_BMP", "group___system.html#ggacaf0607d1c436718aa252e6ee323024aaaa6ccd996cf188e08bb2ac33bc2a7455", null ],
+      [ "FORMAT_JPG", "group___system.html#ggacaf0607d1c436718aa252e6ee323024aa16af9387e455100f32588b0b650b6f9a", null ],
+      [ "FORMAT_PNG", "group___system.html#ggacaf0607d1c436718aa252e6ee323024aaf5dc429df9e129ca283e309e467c58d3", null ]
+    ] ],
     [ "BtnMode", "group___system.html#ga8fee6c54f66e48b74b293af4dd3c1d66", [
       [ "BUTTON_NONE", "group___system.html#gga8fee6c54f66e48b74b293af4dd3c1d66a44b65ff2efb4231ba8109b9f72b7ad6d", null ],
       [ "BUTTON_OK", "group___system.html#gga8fee6c54f66e48b74b293af4dd3c1d66a3534e510a800f1a3975a255756f0246d", null ],
@@ -93,7 +98,7 @@ var group___system =
     [ "addToZip", "group___system.html#ga8ec793e46b538918bd0ef3d346ec785f", null ],
     [ "getAsyncState", "group___system.html#ga991074c32b2de96dcdbffd54f838ffc6", null ],
     [ "getAsyncResult", "group___system.html#gadccaa5cd953c15915d34152f29f73eaa", null ],
-    [ "takeScreenshot", "group___system.html#ga445e5fe0f276edbfe49bd288e5a017fa", null ],
+    [ "takeScreenshot", "group___system.html#gadc69d2ef3c7a8e55db90726a81cd7e2d", null ],
     [ "executeUri", "group___system.html#ga23c5a7cd15e2daa6d608e2fa5678ec50", null ],
     [ "reboot", "group___system.html#ga23984244aa92f7902124fbc78ebfa228", null ],
     [ "shutdown", "group___system.html#ga2cf598fa7b2f79eaced6e09500af0fbe", null ],
@@ -109,5 +114,9 @@ var group___system =
     [ "installApp", "group___system.html#gaf731f171a7dab479d82acd3d7921cc8b", null ],
     [ "uninstallApp", "group___system.html#gaac13ec04c493cc8c3866f1ff28f93b9d", null ],
     [ "doesAppExist", "group___system.html#gaab021ebf110e72c97769dc55953ba89a", null ],
-    [ "getBootParams", "group___system.html#ga31cc4c4e7e27722f1acd690c41d34898", null ]
+    [ "getBootParams", "group___system.html#ga31cc4c4e7e27722f1acd690c41d34898", null ],
+    [ "loadUserPlugin", "group___system.html#ga0904c2b93415a6d6746b7fedef6f8cac", null ],
+    [ "loadKernelPlugin", "group___system.html#ga5988642adcafd6bba628391e340ece44", null ],
+    [ "unloadUserPlugin", "group___system.html#ga9bdabd2a38b4ad66e1faa53ccbaf183b", null ],
+    [ "unmountMountpoint", "group___system.html#ga75877661c3f115df6d5164e0d028969d", null ]
 ];
